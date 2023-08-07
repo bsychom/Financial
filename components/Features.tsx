@@ -29,7 +29,7 @@ const Features = () =>{
                             <FontAwesomeIcon className="text-4xl" icon={faPhone} />
                             </div>
                             <h3 className="text-2xl font-bold py-4 ">Support 24/7 </h3>
-                            <p className=" leading-relaxed text-lg">Always there for you, our 24/7 support ensures swift assistance round the clock. Whatever you need, we've got you covered day and night.</p>
+                            <p className=" leading-relaxed text-lg">Always there for you, our 24/7 support ensures swift assistance round the clock. Whatever you need, we&rsquo;ve got you covered day and night.</p>
                         </div>
                     
                 </div>
