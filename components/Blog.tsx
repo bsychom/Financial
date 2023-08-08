@@ -10,6 +10,7 @@ const Blog = () =>{
                    
                         <h4 className="capitalize font-bold text-color-secondary mb-4">inovation and quality improvement</h4>
                         <h1 className="capitalize title">latest updates, solutions and company news</h1>
+                        <p>haddaouimed</p>
                     
 
                 </div>
