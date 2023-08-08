@@ -7,6 +7,8 @@ import Pricing from "@/components/Pricing"
 import TwoTesti from "@/components/TwoTesti"
 import TwoPricing from "@/components/TwoPricing"
 import Blog from "@/components/Blog"
+import DownloadApp from "@/components/DownloadApp"
+import Contact from "@/components/Contact"
 
 export default function Index() {
   return (
@@ -21,6 +23,8 @@ export default function Index() {
         <TwoTesti />
         <TwoPricing />
         <Blog />
+        <DownloadApp />
+        <Contact></Contact>
 
 
     </main>
