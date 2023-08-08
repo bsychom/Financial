@@ -29,9 +29,28 @@
 .mybtn {
   @apply bg-color-secondary px-9 py-3 rounded-md capitalize font-bold hover:opacity-80 ease-in duration-200;
 }
+.card_btn{
+  @apply w-full px-9 py-3 bg-color-primary-dark rounded-md capitalize font-bold hover:bg-color-secondary ease-in duration-200;
+}
 .links{
   @apply hover:text-color-secondary ease-in duration-200;
 }
 .title{
   @apply text-3xl md:text-4xl font-bold leading-snug;
+}
+
+.client {
+  @apply w-20 h-20 rounded-full p-1 m-3 cursor-pointer;
+}
+.card{
+  perspective : 1000px;
+}
+.front,
+.back{
+  backface-visibility: hidden;
+  transition: all 0.4s ease;
+
+}
+.front{
+  overflow: hidden;
 }

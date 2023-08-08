@@ -4,6 +4,9 @@ import Home from "@/components/Home"
 import Features from "@/components/Features"
 import Testimonial from "@/components/Testimonial"
 import Pricing from "@/components/Pricing"
+import TwoTesti from "@/components/TwoTesti"
+import TwoPricing from "@/components/TwoPricing"
+import Blog from "@/components/Blog"
 
 export default function Index() {
   return (
@@ -15,6 +18,9 @@ export default function Index() {
         <Features />
         <Testimonial />
         <Pricing />
+        <TwoTesti />
+        <TwoPricing />
+        <Blog />
 
 
     </main>
