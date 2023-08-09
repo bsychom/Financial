@@ -78,7 +78,7 @@ const Footer = () =>{
                                         type="text" placeholder="Enter Your Email"
                                          />
                                     </div>
-                                    <div className=" h-full w-[15%] bg-color-secondary flex justify-center rounded-r-md items-center">
+                                    <div className=" h-full w-[15%] bg-color-secondary cursor-pointer flex justify-center rounded-r-md items-center">
                                         <button><FaGreaterThan className="bg-color-secondary h-full"/></button>
                                     </div>
                                     <div></div>
