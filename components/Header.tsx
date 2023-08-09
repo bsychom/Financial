@@ -22,7 +22,7 @@ const Header = () =>{
                 </ul>
             </div>
             <div className="dropdown lg:hidden dropdown-left cursor-pointer">    
-                <FontAwesomeIcon tabIndex={0} className=" " icon={faBars} flip />
+                <FontAwesomeIcon tabIndex={0} className=" " icon={faBars}  />
                 <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
                 <li> <Link href="/" className="links">  Home </Link></li>
                     <li> <Link href="#" className="links">  Features </Link></li>
